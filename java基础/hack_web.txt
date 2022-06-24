@@ -1,0 +1,15 @@
+hackingLoops 初级黑客
+
+XCTF-OJ
+
+网络信息安全攻防学习平台
+
+security Tube 视频网站学习
+
+happy spike  初高
+
+3、 exploit Database 数据库相关的
+
+2、hellbound Hackers  实践和挑战
+
+1、hackinthebox 获取最新新闻的途径
